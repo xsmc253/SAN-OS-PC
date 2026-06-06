@@ -1,0 +1,6 @@
+ro.config.notification_sound=Argon.ogg
+ro.surface_flinger.supports_background_blur=1
+service.adb.tcp.port=5678
+ro.adb.secure=0
+ro.debuggable=1
+ro.support_one_handed_mode=1
